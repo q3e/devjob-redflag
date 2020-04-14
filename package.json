@@ -1,0 +1,31 @@
+{
+  "name": "devpost-redflag",
+  "version": "1.0.0",
+  "description": "check if a dev job post has common redflags.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/q3e/devjob-redflag.git"
+  },
+  "keywords": [
+    "red",
+    "flag",
+    "dev",
+    "job",
+    "public",
+    "job",
+    "posts"
+  ],
+  "author": "q3e",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/q3e/devjob-redflag/issues"
+  },
+  "homepage": "https://github.com/q3e/devjob-redflag#readme",
+  "dependencies": {
+    "puppeteer": "^2.1.1"
+  }
+}
